@@ -1,0 +1,2 @@
+config SHIELD_NOMU30_XIAO
+    def_bool $(shields_list_contains,nomu30_xiao)
