@@ -1,3 +1,3 @@
 include:
   - board: seeeduino_xiao_ble
-    shield: reviung34
+    shield: nomu30_xiao
